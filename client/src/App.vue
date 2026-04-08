@@ -5,6 +5,7 @@
       <div class="nav-links">
         <router-link to="/" class="nav-link">首页</router-link>
         <router-link to="/streams" class="nav-link">流管理</router-link>
+        <router-link to="/element-test" class="nav-link">组件测试</router-link>
         <router-link to="/about" class="nav-link">关于</router-link>
       </div>
     </nav>
